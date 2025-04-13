@@ -14,5 +14,5 @@ I Cleaned columns using Excel formulas and Created Pivot Tables to summarize dat
 
 6: Linked slicers across all charts for dynamic filtering
 
-Purpose
-* This project demonstrates my Excel skills and is part of my data analyst portfolio.
+* Purpose
+1: This project demonstrates my Excel skills and is part of my data analyst portfolio.
